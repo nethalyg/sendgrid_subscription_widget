@@ -1,4 +1,4 @@
-exports.url = 'http://localhost:3090';
-exports.senderEmail = "sender@example.com";
-exports.senderName = "Example Sender";
-exports.listID = 348282;
+exports.url = 'morning-island-80076.herokuapp.com';
+exports.senderEmail = "nethaly@keysource.us";
+exports.senderName = "Nethaly Test";
+exports.listID = 21041;
